@@ -1,4 +1,4 @@
-package com.belajarspringconfigproperties.spring.config.springsource;
+package com.belajarspringconfigproperties.spring.config.messagesource;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

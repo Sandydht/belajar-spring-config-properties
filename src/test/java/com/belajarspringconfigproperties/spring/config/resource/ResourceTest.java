@@ -1,4 +1,4 @@
-package com.belajarspringconfigproperties.spring.config;
+package com.belajarspringconfigproperties.spring.config.resource;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
