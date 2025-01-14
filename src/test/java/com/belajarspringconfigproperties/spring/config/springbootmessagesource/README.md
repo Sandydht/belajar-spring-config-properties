@@ -27,8 +27,6 @@ public static class TestApplication {
 ```
 - Kode: Test Message Source
 ```java
-import org.springframework.beans.factory.annotation.Autowired;
-
 @SpringBootTest(classes = MessageSourceTest.TestApplication.class)
 public class MessageSourceTest {
     @Autowired
