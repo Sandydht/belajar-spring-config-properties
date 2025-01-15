@@ -1,0 +1,4 @@
+application:
+  name: Belajar Spring Boot
+  version: 1
+  production-mode: true
